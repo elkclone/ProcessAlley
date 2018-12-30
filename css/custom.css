@@ -1,0 +1,9 @@
+body {
+	background: url("../images/delicate-grunge-texture-3.jpg");
+	background-size: cover;
+}
+
+.jumbotron {
+	background: none;
+}
+
